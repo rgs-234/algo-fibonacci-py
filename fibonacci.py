@@ -19,4 +19,3 @@ def fibonacci(n):
     num1 = temp
 
   return num1
-
